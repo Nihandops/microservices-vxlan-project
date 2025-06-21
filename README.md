@@ -91,7 +91,4 @@ microservices-vxlan-project/
 │   └── setup-guide.md
 ```
 
-## 📌 Credits
 
-- Created by: Your Name
-- For simulation and learning purposes
